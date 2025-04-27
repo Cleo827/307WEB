@@ -1,2 +1,2 @@
-# 307WEB
-307 main assigment 
+# COSC309 PROJECT
+Made by Ataba Clement Chinaza
